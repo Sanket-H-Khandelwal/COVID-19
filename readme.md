@@ -1,3 +1,12 @@
+## Problem Statement:
+  Imagine you are part of a data team that wants to bring in daily data for COVID-19
+  test occurring in New York state for analysis. Your team has to design a daily
+  workflow that would run at 9:00 AM and ingest the data into the system.
+
+# API: https://health.data.ny.gov/api/views/xdss-u53e/rows.json?accessType=DOWNLOAD
+
+
+
 ## Implementation option:  Python scripts to run a daily cron job
 
 # setting up the cron job
